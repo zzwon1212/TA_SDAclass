@@ -1,7 +1,7 @@
 # TA_SDAclass
 Teaching Assiatant
 
-[2020 Statistical Data Application class] - Prof. Eunju Hwang, Department of Applied Statistics, Gachon University.
+[2020 Statistical Data Application class] - Prof. Eunju Hwang, Dept. of Applied Statistics, Gachon University.
 
 ------------------------------------------------------
 
