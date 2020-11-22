@@ -15,3 +15,5 @@ Teaching Assiatant
 [HW2_solution](https://github.com/zzwon1212/TA_SDAclass/blob/master/HW2_solution.ipynb)
 
 [HW3_solution](https://github.com/zzwon1212/TA_SDAclass/blob/master/HW3_solution.ipynb)
+
+[HW4_solution](https://github.com/zzwon1212/TA_SDAclass/blob/master/HW4_solution.ipynb)
